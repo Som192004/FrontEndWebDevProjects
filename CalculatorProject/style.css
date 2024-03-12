@@ -1,0 +1,30 @@
+body{
+    background-color: #d8b2ff;
+}
+
+#calculator{
+    border: 1px solid black;
+    border-radius: 5px;
+    width : 600px ;
+    height: 710px;
+    margin : auto ;
+    text-align: center;
+} 
+
+#display{
+    margin: 10px ;
+    width: 90%;
+    font-size: 35px;
+}
+
+.butClass{
+    width: 150px;
+    height: 75px; 
+    margin: 3px;
+    background-color: blueviolet;
+}
+.butContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

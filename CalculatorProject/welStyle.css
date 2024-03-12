@@ -1,0 +1,19 @@
+.heading{
+    color: blueviolet;
+    text-align: center;
+
+}
+.startBut{
+    text-align: center;
+    
+}
+
+#startBut1{
+    border-radius: 10px;
+    background-color: blueviolet;
+    width: 100px;
+    height : 50px ;
+}
+body{
+    background-image: url('https://i.pinimg.com/originals/8c/43/64/8c43645fe8d0ac164a6925448be32858.jpg');
+}

@@ -1,0 +1,12 @@
+.navbar{
+    background-color: black;
+
+}
+
+#logo{
+    height: 100%;
+    left: -9999px;
+    max-width: none;
+    right: -9999px;
+
+}
